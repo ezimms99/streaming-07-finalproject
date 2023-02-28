@@ -1,5 +1,5 @@
 """
-    Emily Zimmerman -- 2/6/2023 -- This program emmits different tasks to RabbitMQ server 
+    Emily Zimmerman -- 2/27/2023 -- This program emmits different tasks to RabbitMQ server 
 """
 
 import pika
